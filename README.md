@@ -2,7 +2,17 @@
 
 An in-depth project analyzing pharmaceutical business data from 2022 to June 2024, using SQL for data preparation and Power BI for visual storytelling. This project transforms raw data into actionable insights.
 
-**Live Dashboard Link**: https://shorturl.at/YisiG
+**Live Dashboard Link**: https://shorturl.at/35fKX
+
+## COMPANY INFO & PROBLEM STATEMENT
+This project focuses on a hypothetical pharmaceutical company seeking to enhance its business intelligence capabilities. The company operates in multiple markets, catering to a diverse customer base, including different age groups, genders, and buyer types.
+The pharmaceutical company faced challenges in understanding key metrics, such as sales trends, market performance, customer segmentation, and regulatory compliance. The company needed a comprehensive business intelligence solution to derive actionable insights from their data to make informed strategic decisions.
+
+## DATA
+- **Sales Data**: Transactions from 2022 to June 2024.
+- **Customer Data**: Demographics and segmentation information.
+- **Product Data**: Details about drugs, including regulatory compliance.
+- **Regulatory Data**: Compliance status and associated information.
 
 ## TRANSFORMATIONS PERFORMED
 
@@ -43,12 +53,21 @@ An in-depth project analyzing pharmaceutical business data from 2022 to June 202
 - **MoM% Revenue Change**: Steady growth observed, with significant spikes towards the year's end.
 - **Revenue Trends**: Peaks in 2023 with over $4M, steady between $4.4M and $4.2M.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/52805190-877d-4e7d-b07d-765973d3906e" width="800" />
+</p>
+
 ## VISUALIZATIONS
 - **KPI Cards** for key metrics.
 - **Line Charts** to track revenue trends over time.
 - **Bar Charts** for cost-benefit analysis.
 - **Donut Charts** to represent market share by customer type, age group, and gender.
 - **Tables** summarizing revenue by compliance status and market.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/30e93d15-ccfd-4d45-ac60-12de1b47ba37" width="500" />
+  <img src="https://github.com/user-attachments/assets/cbc29731-f0eb-4301-bcb9-9ee042f6f774" width="500" />
+  <img src="https://github.com/user-attachments/assets/6c844ea0-1181-4d50-b4cf-7564111e484a" width="500" />
+</p>
 
 ## INSIGHTS
 ### Sales Insights:
@@ -64,7 +83,7 @@ An in-depth project analyzing pharmaceutical business data from 2022 to June 202
 - Only **23%** of drugs complied with regulatory standards.
 - Non-compliant drugs, though fewer, drove the highest sales and revenue.
 
-## CONCLUSION
+## INSIGHTS AND RECOMMENDATIONS
 This comprehensive analysis provides crucial insights that can guide strategic decisions in the pharmaceutical industry. For instance:
 
 1. **Focus on Top-Performing Drugs**: Doxycycline, with its 95% gross revenue percentage, should be prioritized in marketing and production strategies.
