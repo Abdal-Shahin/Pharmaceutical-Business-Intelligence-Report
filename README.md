@@ -2,7 +2,7 @@
 
 An in-depth project analyzing pharmaceutical business data from 2022 to June 2024, using SQL for data preparation and Power BI for visual storytelling. This project transforms raw data into actionable insights.
 
-**Live Interactive Dashboard**: https://shorturl.at/ORnoI
+**Live Interactive Dashboard**: https://shorturl.at/oBdsD
 
 ## COMPANY INFO & PROBLEM STATEMENT
 This project focuses on a hypothetical pharmaceutical company seeking to enhance its business intelligence capabilities. The company operates in multiple markets, catering to a diverse customer base, including different age groups, genders, and buyer types.
