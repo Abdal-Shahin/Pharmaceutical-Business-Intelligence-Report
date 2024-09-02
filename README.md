@@ -85,12 +85,10 @@ The pharmaceutical company faced challenges in understanding key metrics, such a
 
 ## INSIGHTS AND RECOMMENDATIONS
 This comprehensive analysis provides crucial insights that can guide strategic decisions in the pharmaceutical industry. For instance:
-
-1. **Focus on Top-Performing Drugs**: Doxycycline, with its 95% gross revenue percentage, should be prioritized in marketing and production strategies.
-2. **Enhance Regulatory Compliance**: Improving compliance rates could reduce production costs from $60 to $51 on average, boosting overall profitability.
-3. **Target Key Customer Segments**: With older adults and preferred customers generating significant revenue, targeted marketing campaigns can further enhance sales.
-4. **Optimize Market Strategies**: Canada, being the highest revenue market at $24.3M, presents opportunities for deeper market penetration and tailored offerings.
-5. **Address Gender Disparities**: The gender-based sales gap indicates potential for increasing female customer engagement, potentially expanding market share by focusing on their needs.
+1. **Focus on High-Performing Drugs**: Transform product strategy to elevate Doxycycline as a flagship product, leveraging its 95% gross revenue share. 
+2. **Address Gender Disparities in Sales**:  Introduce female-focused marketing strategies, which currently has a 32% share compared to 47% for males. Ex: tailored health solutions.
+3. **Strategic Alliances in High-Revenue Markets**: Launch partnership initiatives with key local players in Canada to bolster market presence and tap into new growth avenues.
+4. **Cost Efficiency**:  Investment in cutting-edge technologies could reduce production costs from $60 to $51 on average, boosting overall profitability.
 
 By leveraging these insights, stakeholders can make informed decisions to drive growth, ensure compliance, and optimize resource allocation effectively.
 
