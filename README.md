@@ -91,7 +91,7 @@ This comprehensive analysis provides crucial insights that can guide strategic d
 4. **Cost Efficiency**:  Investment in cutting-edge technologies could reduce production costs from $60 to $51 on average, boosting overall profitability.
 
 ## FINAL CONCLUSION
-●	As data analyst, implemented DAX-based calculation models, providing users with more nuanced, flexible data insights.
+●	As a data analyst, implemented DAX-based calculation, providing users with more nuanced, flexible data insights.
 
 ●	Delivered actionable insights into 3 major aspects of business - KPI (Net Sales, COGS, Gross Profit), Market share, and regulatory compliance
 
